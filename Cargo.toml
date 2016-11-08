@@ -2,5 +2,10 @@
 name = "knurling-traits"
 version = "0.1.0"
 authors = ["James Munns <james.munns@gmail.com>"]
+license = "MIT"
+documentation = "https://docs.rs/crate/knurling-traits"
+repository = "https://github.com/knurling-rs/knurling-traits"
+homepage = "https://github.com/knurling-rs/knurling-traits"
+description = "Traits used to specify a common interface layer for portable embedded drivers - making bare metal more ergonomic"
 
 [dependencies]
